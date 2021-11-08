@@ -68,6 +68,4 @@ function animate()
 
         p.draw();
     });
-
-    
 }
