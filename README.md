@@ -11,4 +11,4 @@
 7. intersecting lines
 8. perpendicular lines
 
-[live-view](https://sjo.hosts1.ma-cloud.nl/js-physics-engine-2021-leraar/)
+[live-view](http://30731.hosts1.ma-cloud.nl/SYS-AMP/)
